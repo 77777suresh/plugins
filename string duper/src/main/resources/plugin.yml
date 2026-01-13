@@ -1,0 +1,5 @@
+name: StringDuper
+version: 1.1
+main: com.universal.duper.StringDuper
+api-version: '1.21'
+author: UniversalArchitect
